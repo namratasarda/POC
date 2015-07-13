@@ -1,8 +1,4 @@
 Hello
 This is new chnage for feature
-<<<<<<< HEAD
 Feature branch : check 1
-||||||| merged common ancestors
-=======
 Take 1
->>>>>>> master
